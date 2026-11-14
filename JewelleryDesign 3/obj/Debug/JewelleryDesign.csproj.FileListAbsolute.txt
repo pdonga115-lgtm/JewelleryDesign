@@ -1,0 +1,7 @@
+d:\P1\JewelleryDesign 3\bin\JewelleryDesign.dll.config
+d:\P1\JewelleryDesign 3\bin\JewelleryDesign.dll
+d:\P1\JewelleryDesign 3\bin\JewelleryDesign.pdb
+d:\P1\JewelleryDesign 3\obj\Debug\JewelleryDesign.csproj.AssemblyReference.cache
+d:\P1\JewelleryDesign 3\obj\Debug\JewelleryDesign.csproj.CoreCompileInputs.cache
+d:\P1\JewelleryDesign 3\obj\Debug\JewelleryDesign.dll
+d:\P1\JewelleryDesign 3\obj\Debug\JewelleryDesign.pdb
